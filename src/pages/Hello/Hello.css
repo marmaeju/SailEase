@@ -19,8 +19,7 @@
 }
 
 .blue-man {
-    /* width: 80px;
-    height:80px; */
+
     display: flex;
     flex-direction: row-reverse;
     margin-top: 200px;
@@ -40,9 +39,9 @@
 }
 
 #plan button, #plan a.button {
-    /* display: flex; */
+
     flex-direction: column;
-    /* justify-content: center; */
+
     margin: 2vmin;
     padding: 1vmin;
     color: var(--white);
